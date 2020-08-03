@@ -5,6 +5,15 @@
 # Execution:   One argument for start number can be passed 
 #
 
+# William F. Henderson III was a brilliant computer scientist who was taken from us all too soon. He had trouble falling asleep 
+# because there were too many thoughts running through his head. The everyday method of counting sheep didn’t work for him because
+# it was too easy, leaving him too much time for other thoughts. So he invented the following method which required more calculation.
+
+# Start with the number 1000. Subtract 1 from it repeatedly (i.e., 999, 998, etc.) until you get a number ending in 0. (That will happen at 990.) 
+# Then switch to subtracting 2’s, i.e., 988, 986, etc., until you again get a number ending in 0. Then switch to subtracting 3’s. 
+# Every time you get a number ending in 0, increment the number you are subtracting. Stop when the next subtraction would cause the number to go negative.
+# This program is an implementation of the above method
+
 import sys
 
 print('\nNumber of arguments: ', len(sys.argv))

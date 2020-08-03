@@ -1,12 +1,12 @@
 # Python3
 ## Programs done using Python3
 
-HendersonMethod
+Henderson Method 
 
-Letter_frequencies_and_chisquare
+Letter frequencies and chi-square
 
-ListComprehension
+List Comprehension
 
-spelling_algorithm_I and spelling_algorithm_II
+Kernighans Spelling Algorithm I and II
 
 

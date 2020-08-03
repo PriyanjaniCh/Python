@@ -7,6 +7,17 @@
 
 # Uses json-data.json from spelling_algorithm_I.py 
 
+# Correction.py imported in this file
+# class Correction:
+#    initial_list = []
+    
+#    def __init__(self, initial_list):
+#        self.initial_list = initial_list
+    
+#    def get_values(self):
+#       return self.initial_list
+
+
 import sys
 import os
 import json
